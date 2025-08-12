@@ -28,6 +28,7 @@ cmake ..
 cd ..
 CXXFLAGS="-W -Wall -g" ./ns3 configure --disable-werror --disable-python --disable-tests --disable-examples --build-profile=release
 ./ns3 build
+mkdir sim_results
 ```
 
 
