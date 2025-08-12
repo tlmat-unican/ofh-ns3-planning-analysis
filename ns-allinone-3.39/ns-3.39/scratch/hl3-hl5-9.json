@@ -1,0 +1,239 @@
+{
+    "FolderName": "hl3hl5-8000pavg80.00",
+    "EnableHQoS": false,
+    "Enableswitching": true,
+    "EnableTraceTimeStamps": false,
+    "EnableModel": false,
+    "Seconds_sim": 1,
+    "QSD": "Wrr",
+    "MapQueue": "8 0 16 1 24 2",
+    "Weights": "72 10 18",
+    "Marking_Port": "8080 46 11000 8 12000 8 13000 8",
+    "hl4level": false,
+    "Poisson": false,
+    "Model": "mg1",
+    "netmtu": 8000,
+    "del-hl4hl5": 87.5,
+    "del-hl3hl4": 137.5,
+    "LinkCap": "700Gbps",
+    "Hl5Agreggration": [
+        {
+            "Sites": [
+                {
+                    "Cells": 1,
+                    "CellFeatures": [
+                        {
+                            "Poisson": false,
+                            "CUPlane": false,
+                            "URatenum": 70000000000.0,
+                            "UMaxBytes": 0,
+                            "UPacketSize": 7680,
+                            "CRatenum": 0,
+                            "CMaxBytes": 0,
+                            "CPacketSize": 614,
+                            "Logging": true
+                        }
+                    ],
+                    "LinkCap": "100Gbps"
+                }
+            ]
+        },
+        {
+            "Sites": [
+                {
+                    "Cells": 1,
+                    "CellFeatures": [
+                        {
+                            "Poisson": false,
+                            "CUPlane": false,
+                            "URatenum": 70000000000.0,
+                            "UMaxBytes": 0,
+                            "UPacketSize": 7680,
+                            "CRatenum": 0,
+                            "CMaxBytes": 0,
+                            "CPacketSize": 614,
+                            "Logging": true
+                        }
+                    ],
+                    "LinkCap": "100Gbps"
+                }
+            ]
+        },
+        {
+            "Sites": [
+                {
+                    "Cells": 1,
+                    "CellFeatures": [
+                        {
+                            "Poisson": false,
+                            "CUPlane": false,
+                            "URatenum": 70000000000.0,
+                            "UMaxBytes": 0,
+                            "UPacketSize": 7680,
+                            "CRatenum": 0,
+                            "CMaxBytes": 0,
+                            "CPacketSize": 614,
+                            "Logging": false
+                        }
+                    ],
+                    "LinkCap": "100Gbps"
+                }
+            ]
+        },
+        {
+            "Sites": [
+                {
+                    "Cells": 1,
+                    "CellFeatures": [
+                        {
+                            "Poisson": false,
+                            "CUPlane": false,
+                            "URatenum": 70000000000.0,
+                            "UMaxBytes": 0,
+                            "UPacketSize": 7680,
+                            "CRatenum": 0,
+                            "CMaxBytes": 0,
+                            "CPacketSize": 614,
+                            "Logging": false
+                        }
+                    ],
+                    "LinkCap": "100Gbps"
+                }
+            ]
+        },
+        {
+            "Sites": [
+                {
+                    "Cells": 1,
+                    "CellFeatures": [
+                        {
+                            "Poisson": false,
+                            "CUPlane": false,
+                            "URatenum": 70000000000.0,
+                            "UMaxBytes": 0,
+                            "UPacketSize": 7680,
+                            "CRatenum": 0,
+                            "CMaxBytes": 0,
+                            "CPacketSize": 614,
+                            "Logging": false
+                        }
+                    ],
+                    "LinkCap": "100Gbps"
+                }
+            ]
+        },
+        {
+            "Sites": [
+                {
+                    "Cells": 1,
+                    "CellFeatures": [
+                        {
+                            "Poisson": false,
+                            "CUPlane": false,
+                            "URatenum": 70000000000.0,
+                            "UMaxBytes": 0,
+                            "UPacketSize": 7680,
+                            "CRatenum": 0,
+                            "CMaxBytes": 0,
+                            "CPacketSize": 614,
+                            "Logging": false
+                        }
+                    ],
+                    "LinkCap": "100Gbps"
+                }
+            ]
+        },
+        {
+            "Sites": [
+                {
+                    "Cells": 1,
+                    "CellFeatures": [
+                        {
+                            "Poisson": false,
+                            "CUPlane": false,
+                            "URatenum": 70000000000.0,
+                            "UMaxBytes": 0,
+                            "UPacketSize": 7680,
+                            "CRatenum": 0,
+                            "CMaxBytes": 0,
+                            "CPacketSize": 614,
+                            "Logging": false
+                        }
+                    ],
+                    "LinkCap": "100Gbps"
+                }
+            ]
+        },
+        {
+            "Sites": [
+                {
+                    "Cells": 1,
+                    "CellFeatures": [
+                        {
+                            "Poisson": false,
+                            "CUPlane": false,
+                            "URatenum": 70000000000.0,
+                            "UMaxBytes": 0,
+                            "UPacketSize": 7680,
+                            "CRatenum": 0,
+                            "CMaxBytes": 0,
+                            "CPacketSize": 614,
+                            "Logging": false
+                        }
+                    ],
+                    "LinkCap": "100Gbps"
+                }
+            ]
+        },
+        {
+            "Sites": [
+                {
+                    "Cells": 1,
+                    "CellFeatures": [
+                        {
+                            "Poisson": false,
+                            "CUPlane": false,
+                            "URatenum": 70000000000.0,
+                            "UMaxBytes": 0,
+                            "UPacketSize": 7680,
+                            "CRatenum": 0,
+                            "CMaxBytes": 0,
+                            "CPacketSize": 614,
+                            "Logging": false
+                        }
+                    ],
+                    "LinkCap": "100Gbps"
+                }
+            ]
+        }
+    ],
+    "Backhaulenable": false,
+    "Slices": 1,
+    "FlowsPerSlice": 1,
+    "BHFeatures": [
+        {
+            "Rate": "80000.0Mbps",
+            "OnTime": 1,
+            "OffTime": 0,
+            "MaxBytes": 0,
+            "PacketSize": 160,
+            "Logging": false
+        },
+        {
+            "Rate": "833.33Mbps",
+            "OnTime": 1,
+            "OffTime": 0,
+            "MaxBytes": 0,
+            "PacketSize": 1358,
+            "Logging": true
+        },
+        {
+            "Rate": "1666.67Mbps",
+            "OnTime": 1,
+            "OffTime": 0,
+            "MaxBytes": 0,
+            "PacketSize": 1450,
+            "Logging": true
+        }
+    ]
+}
