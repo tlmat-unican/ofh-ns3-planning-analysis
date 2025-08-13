@@ -73,7 +73,7 @@ To evaluate the jitter experienced by the open-fronthaul traffic in the network,
 #### HQoS node delay analysis
 To obtain benchmark values for the open fronthaul traffic alongside backhaul technologies, the following scripts can be used to gather statistical results:
 
-- [`ofh-flow-merging-analysis.ipynb`](./ns-allinone-3.39/ns-3.39/hl3hl5analysis/ofh-flow-merging-analysis.ipynb) - 
+- [`ofh-flow-merging-analysis.ipynb`](./ns-allinone-3.39/ns-3.39/hl3hl5analysis/ofh-flow-merging-analysis.ipynb) - Demonstration of merging O-FH flows over the network.
 - [`runscenbh.py`](./ns-allinone-3.39/ns-3.39/hl3hl5analysis/runscenbh.py) – Executes simulation scenarios for the HL3HL5 analysis with HQoS policies to validate the theoretical framework.  
 - [`runscenbhhl3hl5CUT.py`](./ns-allinone-3.39/ns-3.39/hl3hl5analysis/runscenbhhl3hl5CUT.py) – Runs simulations at various link utilization levels to gather statistics related to dispersion and average values.  
 - [`HQoS-analysis.ipynb`](./ns-allinone-3.39/ns-3.39/hl3hl5analysis/HQoS-analysis.ipynb) – Contains the analytical framework along with simulation-based validation to study the interplay between different technologies using priority-based scheduling policies.
